@@ -11,6 +11,6 @@ Para casi todo, grillas, card, colores, titulos, tooltips, popsover, posicionami
 Usado a muy baja escala, algunos complementos que utiliza Bootstrap4  
 
 ## Conclusión  
-A pesar de que Bootstrap 4 me facilitó el tema de las grillas, posicionamiento, cards y demás aun no me termina de acomodar, personalmente prefiero a usar nuestro nativo CSS3 ;)   
+A pesar de que Bootstrap 4 me facilitó el tema de las grillas, posicionamiento, cards y demás aun no me termina de acomodar, personalmente prefiero usar nuestro nativo CSS3 ;)   
   
 https://h4k1.github.io/portafolio/ para verlo más a detalle.
