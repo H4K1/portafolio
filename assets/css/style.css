@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	font-family: 'Raleway', sans-serif;
+}
+
+.bg-nav{
+	background:#660066;
+}
+
+.anton{
+	font-family: 'Anton', sans-serif;
+	font-size:30px;
+}
+/*	Nav	*/
+.nav-link{
+	transition: transform 0.2s;
+}
+
+.nav-link:hover{
+	transform: scale(1.2);
+}
+
+
