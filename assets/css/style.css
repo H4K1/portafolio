@@ -16,6 +16,14 @@ body{
 	font-family: 'Oswald', sans-serif;
 }
 
+.p-6{
+	padding:100px;
+}
+
+.linea{
+	padding:0.3px;
+}
+
 /*	Nav	*/
 .nav-link{
 	transition: transform 0.2s;
@@ -35,6 +43,7 @@ header{
 	background-repeat:no-repeat;
 	background-position: center center;
 	height:600px;
+	padding:50px;
 }
 
 .header{
