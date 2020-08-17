@@ -3,8 +3,12 @@ body{
 	font-family: 'Open Sans', sans-serif;
 }
 
+html {
+	scroll-behavior: smooth;
+  }
+
 .bg-nav{
-	background:#660066;
+	background:#c23616;
 }
 
 .anton{
@@ -25,11 +29,11 @@ body{
 }
 
 .violet{
-	color:#660066;
+	color:#c23616;
 }
 
 .bg-violet{
-	background:#660066;
+	background:#c23616;
 }
 
 /*	Nav	*/
@@ -39,6 +43,7 @@ body{
 
 .nav-link:hover{
 	transform: scale(1.2);
+	font-weight: bold;
 }
 
 
@@ -49,7 +54,8 @@ header{
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position: center center;
-	height:700px;
+	background-attachment: fixed;
+	height:500px;
 	padding:50px;
 }
 
@@ -67,3 +73,4 @@ header{
 	margin-left:0!important;
 	margin-right:0!important;
 }
+
